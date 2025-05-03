@@ -1,52 +1,77 @@
-<h1>Hi 👋, I'm Lorretta</h1>
-<p>A Junior Front-End Developer | Passionate about building responsive, user-friendly web experiences with HTML, CSS, and JavaScript.</p>
-<h2>🚀 Languages and Tools I Use</h2><!-- GitHub Profile README Template -->
+<!-- GitHub Profile README with Icons -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">🎯 Aspiring Front-End Developer | ALX Learner | Passionate about building beautiful, user-friendly web experiences</h3>
+<h1 align="center">Hi there, I'm Lorretta</h1>
+<h3 align="center">🌟 Junior Front-End Developer | ALX Student | Creative Coder | Lifelong Learner</h3>
 
 ---
 
-## 👨🏽‍💻 About Me
+## 👩🏽‍💻 About Me
 
-<p>
-I’m currently a learner in the <strong>ALX Front-End Development Program</strong>, focused on mastering the core skills needed to become a professional developer.
-</p>
+I'm a passionate and curious front-end developer currently learning through the **ALX Front-End Development Program**. I discovered my love for coding when I realized how much I enjoy creating responsive, meaningful, and user-friendly digital experiences.
 
-<p>
-I started this journey because I’m inspired by the creative power of code to build digital experiences that are intuitive, responsive, and accessible. My passion lies in front-end development—translating ideas and designs into real, functional websites and applications.
-</p>
+I'm especially inspired by the power of technology to solve real problems and tell visual stories through design and interaction.
 
-🚀 **What I’m aiming for:**
-- To master **HTML**, **CSS**, **JavaScript**, and modern frameworks like **React**
-- To build both **foundational** and **portfolio** projects that showcase my growth
-- To explore **creative and niche** project ideas that challenge my skills and curiosity
+**My goal** is to become a confident developer who can contribute to impactful, inclusive, and aesthetically pleasing web projects.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack
 
-```html
-💻 Languages:     HTML5 | CSS3 | JavaScript (ES6+)
-🎨 Design Tools:  Figma | Canva
-⚙️ Dev Tools:     Git | GitHub | VS Code | Chrome DevTools
-🌐 Frameworks:    React (in progress), TailwindCSS (in progress)
+### 💻 Languages & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/Kirbyy247" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/http://linkedin.com/in/lauretta-amankwah-44045222a " style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lorr-etta&show_icons=true&locale=en" alt="Lorr-etta" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lorr-etta&" alt="Lorr-etta" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorr-etta&show_icons=true&locale=en&layout=compact" alt="Lorr-etta" /></p>
+---
 
+## 💡 What I’m Working On
 
+- Building my **first developer portfolio**
+- Creating interactive **JavaScript mini-projects**
+- Learning **React fundamentals**
+- Improving my understanding of **responsive web design**
+
+---
+
+## 🔭 What I’m Looking to Collaborate On
+
+- Beginner-friendly front-end projects  
+- Creative website redesigns  
+- Open-source projects for junior devs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="left">
+  <a href="mailto:laurettaamankwah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lauretta-amankwah-44045222a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🌱 My Vision
+
+To grow as a developer who builds solutions that are both beautiful and impactful. I believe in continuous learning, building in public, and helping others in the tech journey.
+
+---
